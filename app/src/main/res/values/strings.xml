@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">room</string>
+    <string name="update">Actualizar</string>
+    <string name="update_user_hint">Actualizar usuario</string>
+</resources>
